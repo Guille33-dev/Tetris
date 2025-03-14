@@ -47,7 +47,5 @@ To run unit tests with JUnit 5:
    java -cp ".:bin:lib/junit-5.7.1.jar" org.junit.platform.console.ConsoleLauncher --scan-class-path
    ```
 
-## 📜 License
-
-This project is licensed under the **MIT License**. You are free to use and modify it. Enjoy coding! 🚀
+Enjoy coding! 🚀
 
